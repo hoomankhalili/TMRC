@@ -1,5 +1,5 @@
 # TMRC
-Title: Remote Control of a Two-Motor Robot using TCP Protocol
+Title: Remote Control of a Two-Motor Robot
 
 Objective: The goal of this project is to design and implement a system that allows for remote control of a Two-Motor Robot using the Transmission Control Protocol (TCP) at the application layer. The robot will be controlled via commands sent from a server to an Arduino Nano V3.0 microcontroller, which will be connected to the robot's motors and an ESP-12 WiFi module.
 
